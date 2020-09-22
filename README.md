@@ -1,2 +1,2 @@
 # my-graph
-GraphQL CV
+GraphQL CV test
